@@ -1,2 +1,15 @@
 # celedON
-celedON es un portal ciudadano mobile-first para eventos, ayudas y directorio local. PWA rápida, instalable y accesible; fichas con fechas, mapa y categorías. SEO local con JSON-LD, sitemap y metadatos listos para compartir. Repo con React+TypeScript, componentes reutilizables y panel de administración (demo). Incluye buscador y favoritos anónimos.
+Portal ciudadano mobile-first de eventos, ayudas y directorio local. PWA rápida, instalable y con SEO local (JSON-LD).
+
+## Demo
+- Web/PWA: <URL_DEMO>
+
+## Stack
+React · TypeScript · Vite · Tailwind · Service Worker · JSON-LD
+
+## Funcionalidades
+- Fichas de eventos (fecha, mapa, CTA)
+- Directorio por categorías y buscador
+- SEO técnico: JSON-LD, sitemap, metadatos
+- Core Web Vitals y carga rápida
+- PWA instalable (offline básico)
