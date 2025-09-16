@@ -1,4 +1,4 @@
-# celedON
+# TxoriON
 Portal ciudadano mobile-first de eventos, ayudas y directorio local. PWA rápida, instalable y con SEO local (JSON-LD).
 
 ## Demo
